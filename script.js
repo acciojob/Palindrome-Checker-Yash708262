@@ -7,3 +7,4 @@ function palindrome(str) {
   return reversed === cleaned;
 }
 
+module.exports = palindrome;
